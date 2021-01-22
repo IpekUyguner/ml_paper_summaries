@@ -1,1 +1,1 @@
-# ml_paper_summaries
+# ml_paper_notes
