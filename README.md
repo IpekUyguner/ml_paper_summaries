@@ -1,1 +1,1 @@
-# ml_paper_notes
+# Notes on the paper I read 
